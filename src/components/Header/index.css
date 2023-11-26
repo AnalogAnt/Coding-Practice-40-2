@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
